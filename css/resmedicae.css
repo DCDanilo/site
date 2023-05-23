@@ -56,6 +56,10 @@
 
 /* Hero section */
 
+.divider{
+    height: 100px;
+}
+
 /* service section */
 
 .card-icon{
@@ -78,4 +82,14 @@
     margin-right: 5px;
 }
 /* contact section */
+
+
+
+@media screen and (max-width: 576px) {
+
+    .hero-text{
+        width: 100%;
+    }
+    
+}
 
