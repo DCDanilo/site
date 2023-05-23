@@ -1,0 +1,81 @@
+/* navbar */
+.navbar {
+    height: 90px;
+}
+
+.navbar .container{
+    padding: 0;
+}
+
+#logo{
+    width: 80px;
+    height: auto;
+}
+
+#social-links ul{
+    list-style-type: none;
+    padding: 0;
+    margin-left: 10px;
+}
+
+#social-links ul li{
+    display: inline-block;
+    padding: 0 5px;
+}
+
+#social-links ul li a{
+   color: #000;
+}
+
+#social-links ul li a{
+   color: #000;
+   font-size: 1.3rem;
+}
+
+.fa-facebook-f:hover{
+    color: #1A73E3;
+}
+.fa-instagram:hover{
+    color: #FF1D51;
+}
+
+
+
+/* navbar */
+
+/* Hero section */
+
+.hero{
+    background-color: #144E73;
+    padding: 0;
+}
+
+.hero-text{
+    width: 450px;
+}
+
+/* Hero section */
+
+/* service section */
+
+.card-icon{
+    width: 70px;
+    height: auto;
+    margin: 40px auto 0;
+}
+/* service section */
+
+/* contact section */
+.hours,
+.contacts,
+.link-utili{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.contacts li i{
+    margin-right: 5px;
+}
+/* contact section */
+
